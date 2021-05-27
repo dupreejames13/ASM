@@ -1,0 +1,24 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	COUNTER                 30A3
+//	DECRYPT                 3031
+//	ENCRYPT                 3024
+//	END                     3049
+//	EORD                    304E
+//	EORDLOC                 309F
+//	FINAL                   308D
+//	FIRSTCHAR               30A1
+//	FOURTEEN                304A
+//	INPUT                   307C
+//	KEY                     3065
+//	KEYLOC                  30A0
+//	LOOP                    3013
+//	NASCII1                 304B
+//	NASCII2                 304C
+//	NEGTWENTY               304D
+//	OUTLOC                  30A2
+//	OUTPUT                  3040
+//	TOPOFD                  3038
+//	TOPOFE                  3029
+//	TOPOFO                  3043
+//	TRANSITION              301F
